@@ -1,1 +1,2 @@
-# HangmanGame
+# Hangman Game
+Language: python
