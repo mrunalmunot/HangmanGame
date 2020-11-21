@@ -32,7 +32,7 @@ def hangman(word):
 			break
 	if not win:
 		print("\n".join(stages[0:wrong]))
-		print("You lose..!! It was",word)
+		print("You lose..!! It was",word) 
  
 
 hangman("lion")
